@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Opera Max Stopper</string>
+    <string name="accessibility_service_description">Служба для обнаружения запуска Opera Max и автоматического force-stop по вашему запросу.</string>
+    <string name="channel_name">Остановка Opera Max</string>
+    <string name="channel_description">Оповещения о запуске приложения com.opera.max.global</string>
+    <string name="notification_title">Обнаружен запуск Opera Max</string>
+    <string name="notification_text">Приложение com.opera.max.global открыто. Нажмите \"Остановить\", чтобы закрыть его.</string>
+    <string name="notification_action">Остановить</string>
+</resources>

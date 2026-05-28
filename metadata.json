@@ -1,0 +1,6 @@
+{
+  "name": "Opera Max Stopper",
+  "description": "Приложение для обнаружения запуска Opera Max и автоматической быстрой остановки через панель уведомлений.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
